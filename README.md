@@ -20,4 +20,5 @@
 Esse site é baseado em um projeto desenvolvido em sala. A ideia é mostrar a história e curiosidades de alguns animes. 
 
 ## Parte do site
-![image](https://user-images.githubusercontent.com/86444373/203359012-1f91ef5e-b7ff-4d83-a83d-a6abf4bf53d4.png)
+![image]
+![tela](https://user-images.githubusercontent.com/86444373/203359309-46f9e727-08d4-4592-93a4-fb4d931789c0.png)
