@@ -1,8 +1,8 @@
 # AT 3TRI - 2EMIB
 
 ## Grupo
-- Luiza Ribeiro
-- Nicolle Américo
+- Luiza Ribeiro    rm:14832
+- Nicolle Américo  rm:14450
 
 ## Descrição do Projeto
 Esse site é baseado em um projeto desenvolvido em sala. A ideia é mostrar a história e curiosidades de alguns animes. 
