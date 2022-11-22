@@ -17,7 +17,7 @@
 - Nicolle Américo  rm:14450
 
 ## Descrição do Projeto
-Esse site é baseado em um projeto desenvolvido em sala. A ideia é mostrar a história e curiosidades de alguns animes. 
+Esse site é baseado em um projeto desenvolvido em sala. A ideia é mostrar a história e curiosidades de alguns animes. Basicamente, é um website que oferece conteúdos referentes à entretenimento, focado em animes/animações japonesas. Inicialmente, destacamos três obras marcantes em nossas vidas: Naruto, One piece e Jojo's Bizarre Adventure. 
 
 
 ## Parte do site
