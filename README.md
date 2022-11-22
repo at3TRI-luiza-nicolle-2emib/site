@@ -19,6 +19,8 @@
 ## Descrição do Projeto
 Esse site é baseado em um projeto desenvolvido em sala. A ideia é mostrar a história e curiosidades de alguns animes. 
 
+
 ## Parte do site
-![image]
-![tela](https://user-images.githubusercontent.com/86444373/203359309-46f9e727-08d4-4592-93a4-fb4d931789c0.png)
+Wireframe inteiro: [at3tri_luiza_nicolle_wireframe_2emib.pdf](https://github.com/at3TRI-luiza-nicolle-2emib/site/files/10069290/at3tri_luiza_nicolle_wireframe_2emib.pdf)
+
+![home](https://user-images.githubusercontent.com/84139409/203369178-6c03fcbd-d29a-4eb9-acdd-917eeb2fc791.png)
